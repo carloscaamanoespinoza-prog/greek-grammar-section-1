@@ -3,7 +3,7 @@
 
 [build]
   # Directory to deploy (output from vite build)
-  publish = "dist"
+  publish = "dist/public"
   # Build command
   command = "pnpm install && pnpm build"
 
